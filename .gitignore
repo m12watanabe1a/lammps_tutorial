@@ -34,6 +34,9 @@
 *.orig
 *.rej
 
+# logfile
+log.lammps
+
 # various
 .DS_Store
 .DS_Store?
